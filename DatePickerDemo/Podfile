@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'DatePickerDemo' do
+
+pod 'Masonry', '1.0.2'
+
+end
